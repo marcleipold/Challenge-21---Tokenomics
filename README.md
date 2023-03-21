@@ -63,3 +63,5 @@ The following packages and technologies are also used:
 * [MetaMask](https://metamask.io/) - A crypto wallet and gateway to blockchain apps. 
 
 ---
+## Contributors
+Marc Leipold: Aspiring Data Scientist with experience in JavaScript, Python, and Ruby. Contributed to the front-end design and back-end functionality of the project.
