@@ -64,4 +64,17 @@ The following packages and technologies are also used:
 
 ---
 ## Contributors
-Marc Leipold: Aspiring Data Scientist with experience in JavaScript, Python, and Ruby. Contributed to the front-end design and back-end functionality of the project.
+
+Marc Leipold
+
+Email: marcleipold@gmail.com
+
+GitHub: https://github.com/marcleipold
+
+LinkedIn: https://www.linkedin.com/in/marc-leipold/
+
+---
+
+## License
+
+MIT
